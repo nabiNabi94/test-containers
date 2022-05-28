@@ -1,0 +1,4 @@
+"ID","AUTHOR","FILENAME","DATEEXECUTED","ORDEREXECUTED","EXECTYPE","MD5SUM","DESCRIPTION","COMMENTS","TAG","LIQUIBASE","CONTEXTS","LABELS","DEPLOYMENT_ID"
+"0","Nabiev","db/changelog/changelog-master.xml","2022-01-18T11:54:14.861","1","EXECUTED","8:0514e1d7063ab70f7c21c9004a555fab","tagDatabase","","","4.5.0","()","","2496054738"
+"1","Nabiev","db/changelog/v-1.0/db/01-changeset-users-table.xml","2022-01-18T11:54:14.872","2","EXECUTED","8:dc4ff8d01813abddcbcc37bfb5a1a5c3","sqlFile","","","4.5.0","()","","2496054738"
+"3","Nabiev","db/changelog/changelog-master.xml","2022-01-18T11:54:14.877","3","EXECUTED","8:9395e2cfc9cd8ebfef953aeac650d034","tagDatabase",,"","4.5.0","()","","2496054738"
